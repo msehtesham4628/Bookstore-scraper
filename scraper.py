@@ -40,3 +40,4 @@ df = pd.DataFrame(books)
 df.to_csv("data/books.csv", index=False)
 
 print("✅ Scraping completed. Data saved to data/books.csv")
+
